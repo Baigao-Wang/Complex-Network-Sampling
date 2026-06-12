@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+.vscode/
+
+results*/
+*.mat
+*.log
+*.png
+*.pdf
+
+.idea/
+.DS_Store
